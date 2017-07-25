@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
